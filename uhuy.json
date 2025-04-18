@@ -6,7 +6,7 @@
       "relay1": 4
     },
     "statusrelay": {
-      "relay1": "on"
+      "relay1": "off"
     }
   }
 ]
