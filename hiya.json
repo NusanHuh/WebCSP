@@ -1,0 +1,14 @@
+[
+  {
+    "apikey": "4832840941",
+    "alat": "relay",
+    "relay": {
+      "relay1": 4,
+      "relay2": 5
+    },
+    "statusrelay": {
+      "relay1": "off",
+      "relay2": "off"
+    }
+  }
+]
